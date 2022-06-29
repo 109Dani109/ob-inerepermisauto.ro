@@ -1,0 +1,34 @@
+.tickerwrapper {
+    /* the outer div */
+    
+    position: relative;
+    top: 10px;
+    left:0%;
+    background: #fff;
+    width: 99.9%;
+    height: 40px;
+    overflow: hidden;
+    cursor: pointer;
+    z-index: 100;
+    font-size: 18px;
+   
+  }
+  
+  ul.list {
+    position: relative;
+    display: inline-block;
+    list-style: none;
+    padding:0;
+    margin:0;
+  }
+  
+  ul.list.cloned {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  
+  ul.list li {
+    float: left;
+    padding-left: 20px;
+  }
