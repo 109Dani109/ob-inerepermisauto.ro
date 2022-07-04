@@ -267,3 +267,8 @@ $tickerWrapper.on("mouseenter", function(){
 // seo bar
 
 
+// title add bucuresti sector 1 dorobanti perla for seo
+
+document.title+= ", Bucuresti Sector 1, Dorobanţi - Perla";
+
+// title add bucuresti sector 1 dorobanti perla for seo
