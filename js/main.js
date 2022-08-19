@@ -157,6 +157,30 @@ footer.innerHTML = `  <div class="dateContact">
     Politica de cookies 
 </a>
 
+<a  href="https://anpc.ro" >
+   A.N.P.C.
+</a>
+
+<a  href="https://anpc.ro/ce-este-sal/" >
+   A.N.P.C. - SAL
+</a>
+
+<a  href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=RO" >
+   ODR
+</a>
+
+<a href="https://anpc.ro/ce-este-sal/">
+
+<img src="img/anpc-sal.png" style="width:250px">
+
+</a>
+
+<a href="https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=RO">
+
+<img src="img/anpc-sol.png" style="width:250px">
+
+</a>
+
 </div>
 
 <div" class="map">
